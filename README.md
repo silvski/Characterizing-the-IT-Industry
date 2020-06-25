@@ -10,4 +10,4 @@ This notebook aims to address this problem through the use of topic modelling (L
 
 ## Topic Cluster Sample Visualization
 
-<img src=https://github.com/silvski/Characterizing-the-Philippines-IT-Industry/blob/master/results/3.JPG?raw=true>
+<img src='https://github.com/silvski/Characterizing-the-Philippines-IT-Industry/blob/master/results/3.JPG?raw=true'>
